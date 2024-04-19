@@ -1,4 +1,4 @@
-# agile-software-design
+# Ágile Software Design
 Repositório para disponibilizar os trabalhos realizado no software Figma para a matéria de Ágile Software Design da Universidade UNIFecaf.
 
 # Ludo Educativo
